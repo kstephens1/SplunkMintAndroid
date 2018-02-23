@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SplunkTest</string>
+    <string name="SplunkKeyProd">c9a074e7</string>
+    <string name="SplunkKeyTest">5cc4ee8b</string>
+</resources>
